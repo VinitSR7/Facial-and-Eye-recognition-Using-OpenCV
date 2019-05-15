@@ -7,4 +7,4 @@ Requirements : 1.OpenCv 2.HAAR Cascades
 $ conda install -c conda-forge opencv 
 Download Facial and eye HAAR Cascades or any other type from here 
 ## Run
-$ python Face Recognition.py/n
+$ python Face Recognition.py

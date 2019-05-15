@@ -1,10 +1,10 @@
 # Facial-and-Eye-recognition-Using-OpenCV
 
-Installation(Ubuntu)
+## Installation(Ubuntu)
 Requirements : 1.OpenCv 2.HAAR Cascades
 
-Conda
+## Conda
 $ conda install -c conda-forge opencv 
 Download Facial and eye HAAR Cascades or any other type from here
 Run
-$ python OpenCv.py
+$ python Face Recognition.py
